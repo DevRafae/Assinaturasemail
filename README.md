@@ -11,3 +11,6 @@ Você pode visualizar o projeto ao vivo [aqui[https://seuusuario.github.io/nome-
     <li>CSS</li>
   </ul>
 </div>
+
+## 🤝 Contribuições
+Sinta-se à vontade para contribuir! Abra uma issue ou envie um pull request.
