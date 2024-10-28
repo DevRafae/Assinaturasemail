@@ -2,7 +2,7 @@
 Desenvolver uma assinatura de e-mail personalizável, permitindo que usuários criem uma assinatura para suas comunicações.
 
 ## Demonstração
-Você pode visualizar o projeto ao vivo [aqui([https://seuusuario.github.io/nome-do-repo](https://devrafae.github.io/Assinaturasemail/)).
+Você pode visualizar o projeto ao vivo [aqui[https://seuusuario.github.io/nome-do-repo]](https://devrafae.github.io/Assinaturasemail/)).
 
 <div style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
   <h2>🎨 Tecnologias Usadas</h2>
