@@ -1,4 +1,4 @@
-# Assiantura de email
+# Assinatura de email
 Desenvolver uma assinatura de e-mail personalizável, permitindo que usuários criem uma assinatura para suas comunicações.
 
 ## Demonstração
